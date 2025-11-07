@@ -1,6 +1,6 @@
 # appify_task
 
-A new Flutter project.
+A basic MVVM with Repository pattern for future offline support.
 
 ## Getting Started
 
