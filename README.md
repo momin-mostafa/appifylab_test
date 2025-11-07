@@ -2,6 +2,14 @@
 
 A basic MVVM with Repository pattern for future offline support.
 
+View : responsible for UI styling 
+VM : responsible for State Management 
+M : responsible for storing data and do all the on the fly calculations
+Repository : For API Repository for api data CRUD
+
+Used DI : for future TDD practice. Dio is used for network call and gloabl for future testing. 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
